@@ -15,3 +15,4 @@ cecil-master/Mono.Cecil.nuspec
 cecil-master/Mono.Cecil.props
 monotest/bin/Debug/monotest.exe.config
 cecil-master/cecil.snk
+monotest/obj
