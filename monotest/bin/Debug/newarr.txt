@@ -1,0 +1,394 @@
+ŸSystem.Void QSUIUtility::Init_NUM_STRS():99System.Void CommonInputComView::.ctor():33System.Void CopyMatchView::StartupFGUI():39System.Void AiCommand::AiSkill(CsLibrary.EntityInfo,System.Int32,UnityEngine.Vector3):56System.Void BanghuiMissionItemView::UpdateGUI():57System.Void BanghuiMissionView::UpdateGUI():38System.Void BanghuiMissionItemModel::set_tableData(TableConfig.GangMission):19
+System.Void BanghuiMissionItemModel::set_tableData(TableConfig.GangMission):25
+System.Void BanghuiMissionItemModel::set_tableData(TableConfig.GangMission):28
+System.Void BanghuiMissionItemModel::set_tableData(TableConfig.GangMission):37System.Void PetInfoDetailView::.ctor():28System.Void RewardGetBackView::OnRewardGetBack1Click():57System.Void BattleResultView::UpdateGUI():81.try IL_0013 to IL_0056 finally handler IL_0056 to IL_0065.try IL_000d to IL_0047 finally handler IL_0047 to IL_0056.try IL_0013 to IL_0055 finally handler IL_0055 to IL_0064System.Collections.Generic.Dictionary`2<System.Int32,System.Collections.Generic.List`1<System.Int32>> ActivityData::get_AllActivityByWeek():106
+	.try IL_002e to IL_00f5 finally handler IL_00f5 to IL_0104.try IL_001d to IL_0082 finally handler IL_0082 to IL_0091.try IL_000e to IL_003c finally handler IL_003c to IL_004bSystem.Void AutoMedicineData::UpdateSetting(MessageDefine.eQSSettingValue_t,System.Int32):51System.Void BinTableManager::QSCMD_BIN_UPDATE_ACKSC_Handler(System.Object):97.try IL_001a to IL_004a finally handler IL_004a to IL_0059.try IL_000e to IL_0067 finally handler IL_0067 to IL_0076.try IL_0021 to IL_0045 finally handler IL_0045 to IL_0054System.Void CDManager::SendEvent_UpdateUI(System.Int32):120System.Void CDManager::QSCMD_ITEM_CD_UPDATESC_Handler(System.Object):150
+	.try IL_0015 to IL_0046 finally handler IL_0046 to IL_0055System.Boolean CommonManager::IsShowCom(System.String,CommonManager/RTUI_SHOW):159System.Int32 CommonManager::GetAppMemory():182System.Int32 CommonManager::GetTotalMemory():196System.Void CommonManager::QSCMD_UPDATE_FUNC_AD_Handler(System.Object):325System.Void CommonManager::QSCMD_STRONGERSC_Handler(System.Object):355System.Void CommonManager::SendException(System.String):421System.Void DslEventManager::ScreenFadeOut(System.Single,System.Boolean,System.Boolean):29System.Void DslEventManager::ScreenFadeIn(System.Single,System.Boolean):33.try IL_0025 to IL_0065 finally handler IL_0065 to IL_0074System.Void FriendManager::QSCMD_FRIEND_REFRESHSC_Handler(System.Object):49.try IL_0021 to IL_004d finally handler IL_004d to IL_005c.try IL_002f to IL_0050 finally handler IL_0050 to IL_005fSystem.Void FriendManager::QSCMD_FRIEND_LIST_Handler(System.Object):144System.Void FriendManager::QSCMD_MATCH_USER_BY_NAME_Handler(System.Object):151System.Void FriendManager::QSCMD_APPLY_ADD_FRIEND_LIST_Handler(System.Object):160System.Void FriendManager::QSCMD_FRIEND_ADDSC_Handler(System.Object):176.try IL_000f to IL_0033 finally handler IL_0033 to IL_0042.try IL_000f to IL_0033 finally handler IL_0033 to IL_0042.try IL_0021 to IL_003f finally handler IL_003f to IL_004eSystem.Void GuideManager::QSCMD_UNLOCK_FLAG_UPDATESC_Handler(System.Object):47System.Void GuideManager::QSCMD_UNLOCK_FLAG_PUSHSC_Handler(System.Object):54.try IL_0014 to IL_005e finally handler IL_005e to IL_006d.try IL_000e to IL_0046 finally handler IL_0046 to IL_0055.try IL_0033 to IL_007d finally handler IL_007d to IL_008c
+	.try IL_00ae to IL_010d finally handler IL_010d to IL_011cSystem.Void PlayerPackage::AddNewThing(MessageDefine.stItem2Cell):834System.Void PlayerPackage::RemoveThing(System.Int32):857System.Void PlayerPackage::ResetThing(System.Int32,MessageDefine.stItem2Cell):888System.Void PlayerPackage::TidyupPackageItems():938System.Void PlayerPackage::SetMingwenOpenedNum(System.Int32):955System.Void PlayerPackage::SetNormalOpenedNum(System.Int32):964.try IL_000e to IL_0050 finally handler IL_0050 to IL_005fSystem.Void PlayerPackage::.ctor():184
+System.Void PlayerPackage::.ctor():186System.Void PvpInfoData::.cctor():29.try IL_0019 to IL_0043 finally handler IL_0043 to IL_0052System.Void RedManager::QSCMD_RED_ALERTSC_Handler(System.Object):52System.Void SceneMapData::QSCMD_NAVIGATION_NPC_Handler(System.Object):86.try IL_0030 to IL_0108 finally handler IL_0108 to IL_0117.try IL_003e to IL_00a5 finally handler IL_00a5 to IL_00b4.try IL_002d to IL_007c finally handler IL_007c to IL_008bSystem.Void SceneMapData::SetLoadingTips(System.Int32):173
+System.Void SceneMapData::SetLoadingTips(System.Int32):209
+	.try IL_0034 to IL_00de finally handler IL_00de to IL_00ed
+	.try IL_010d to IL_0145 finally handler IL_0145 to IL_0154System.Void SceneMapData::SetLoadingImages(System.Int32):215
+System.Void SceneMapData::SetLoadingImages(System.Int32):269
+	.try IL_0034 to IL_014c finally handler IL_014c to IL_015b
+	.try IL_01ad to IL_01e5 finally handler IL_01e5 to IL_01f4.try IL_003a to IL_00cf finally handler IL_00cf to IL_00de.try IL_0064 to IL_00e2 finally handler IL_00e2 to IL_00ef
+	.try IL_004f to IL_00fa finally handler IL_00fa to IL_0105.try IL_003c to IL_0092 finally handler IL_0092 to IL_009f
+	.try IL_002a to IL_00aa finally handler IL_00aa to IL_00b5System.Void MeltSaveData::.ctor():326.try IL_0064 to IL_00db finally handler IL_00db to IL_00e8
+	.try IL_004f to IL_00f3 finally handler IL_00f3 to IL_00fe.try IL_002a to IL_0073 finally handler IL_0073 to IL_007e
+	.try IL_0019 to IL_0089 finally handler IL_0089 to IL_0094System.Void TeamData::QSCMD_NEW_TEAM_INFO_Handler(System.Object):153
+System.Void TeamData::QSCMD_NEW_TEAM_INFO_Handler(System.Object):160
+System.Void TeamData::QSCMD_NEW_TEAM_INFO_Handler(System.Object):161
+System.Void TeamData::QSCMD_NEW_TEAM_INFO_Handler(System.Object):173
+System.Void TeamData::QSCMD_NEW_TEAM_INFO_Handler(System.Object):175System.Void TeamData::QSCMD_NEW_TEAM_MEMBER_BLOOD_Handler(System.Object):219
+System.Void TeamData::QSCMD_NEW_TEAM_MEMBER_BLOOD_Handler(System.Object):220
+	.try IL_0015 to IL_00ff finally handler IL_00ff to IL_010eSystem.Void TeamData::QSCMD_NEW_TEAM_MEMBER_POS_Handler(System.Object):237
+	.try IL_0015 to IL_006e finally handler IL_006e to IL_007dSystem.Void TeamData::QSCMD_NEW_TEAM_SHOUT_TEMPLATE_Handler(System.Object):261.try IL_004a to IL_008c finally handler IL_008c to IL_009bSystem.Void TeamData::UpdateTeamInfo():369
+	.try IL_006e to IL_00d0 finally handler IL_00d0 to IL_00df.try IL_001e to IL_004b finally handler IL_004b to IL_005a.try IL_0055 to IL_009e finally handler IL_009e to IL_00adSystem.Void UpcomingManager::UpdateUpcoming():66System.Void UpcomingManager::SetUpcomingOn(System.Int32):74System.Void UpcomingManager::SetUpcomingOff(System.Int32):85.try IL_000e to IL_0045 finally handler IL_0045 to IL_0054.try IL_000e to IL_0039 finally handler IL_0039 to IL_0048.try IL_002b to IL_0073 finally handler IL_0073 to IL_0082System.Void UpcomingManager::OpenUI(TableConfig.TodoThing):173
+System.Void UpcomingManager::OpenUI(TableConfig.TodoThing):175System.Void UpcomingManager::GoToActive(TableConfig.TodoThing):180
+System.Void UpcomingManager::GoToActive(TableConfig.TodoThing):183
+System.Void UpcomingManager::GoToActive(TableConfig.TodoThing):186System.Void ChatHUDView::RefreshBottomList():125
+System.Void ChatHUDView::RefreshBottomList():131
+System.Void ChatHUDView::RefreshBottomList():137
+System.Void ChatHUDView::RefreshBottomList():140
+System.Void ChatHUDView::RefreshBottomList():146
+System.Void ChatHUDView::RefreshBottomList():155.try IL_00c6 to IL_0172 finally handler IL_0172 to IL_0181System.Void BuffView::UpdateForEntity(System.Int32):158
+System.Void BuffView::UpdateForEntity(System.Int32):188System.Void HomeDamageRankView::UpdateUI():84System.Void HomePlayerView::OnClickAutoFight():86
+System.Void HomePlayerView::OnClickAutoFight():93
+System.Void HomePlayerView::OnClickAutoFight():97System.Void HomePlayerView::selfIconClick(FairyGUI.EventContext):104System.Void HomePlayerView::UpdateDebugInfo():200System.Boolean TutorInfoHelper::ParseHyperLinkString(System.String,System.Int32&,System.String&):261System.Boolean TutorInfoHelper::Parse(System.String,System.Int32&,UnityEngine.Vector3&,System.Boolean&,System.Collections.Generic.List`1<System.Int32>&,CsLibrary.EntityInfo&,System.Int32&):298
+System.Boolean TutorInfoHelper::Parse(System.String,System.Int32&,UnityEngine.Vector3&,System.Boolean&,System.Collections.Generic.List`1<System.Int32>&,CsLibrary.EntityInfo&,System.Int32&):305
+System.Boolean TutorInfoHelper::Parse(System.String,System.Int32&,UnityEngine.Vector3&,System.Boolean&,System.Collections.Generic.List`1<System.Int32>&,CsLibrary.EntityInfo&,System.Int32&):318System.Void HomeSidebarView::OnTabChange(FairyGUI.EventContext):366
+System.Void HomeSidebarView::OnTabChange(FairyGUI.EventContext):370System.Void HomeSidebarView::OnClickNextCom():417System.Void HomeSidebarView::OnSendCallOn():466System.Void HomeSidebarView::<StartupFGUI>b__32_0():98.try IL_001c to IL_0050 finally handler IL_0050 to IL_005fSystem.Void TowerLevelUpView::OnCloseCallback():102System.Void TowerLevelUpView::.ctor():21
+System.Void TowerLevelUpView::.ctor():22System.Void UserSkillView::UpdateXiaKeTip():121
+System.Void UserSkillView::UpdateXiaKeTip():124
+System.Void UserSkillView::UpdateXiaKeTip():154System.Void UserSkillView::OnClose():235System.Void UserSkillView::NewUpdateSkillDetail():589
+System.Void UserSkillView::NewUpdateSkillDetail():636System.Void UserSkillView::UpdateSkillDetailOnReplace():809System.Void UserSkillView::UpdateBeiDongSkillInfo():940System.Void UserSkillView::LearnOneSkill():998System.Void UserSkillView::LearnAllSkill():1012System.Void UserSkillView::.ctor():45
+System.Void UserSkillView::.ctor():46
+System.Void UserSkillView::.ctor():54
+System.Void UserSkillView::.ctor():92
+System.Void UserSkillView::.ctor():93.try IL_0086 to IL_00a3 finally handler IL_00a3 to IL_00acSystem.Void TeamTutorView::OpenPlayterformTeam():191System.Void TeamTutorView::OpenNearByTeam():195System.Void TipJiaoseView::InviteTeam():380System.Void TouchScreenView::OnClickJoyStickTouchGraph(FairyGUI.EventContext):474System.Void TouchScreenView::OnTouchScreen(FairyGUI.EventContext):481System.Void JoystickView::OnTouchJoyStickTouchGraphBegin(FairyGUI.EventContext):682
+System.Void JoystickView::OnTouchJoyStickTouchGraphBegin(FairyGUI.EventContext):683
+System.Void JoystickView::OnTouchJoyStickTouchGraphBegin(FairyGUI.EventContext):684System.Void JoystickView::OnTouchBegin(FairyGUI.EventContext):719
+System.Void JoystickView::OnTouchBegin(FairyGUI.EventContext):720
+System.Void JoystickView::OnTouchBegin(FairyGUI.EventContext):721System.Void JoystickView::OnTouchEnd(FairyGUI.EventContext):772System.Void TutorListView::OnTutorListRender(System.Int32,FairyGUI.GObject):103
+System.Void TutorListView::OnTutorListRender(System.Int32,FairyGUI.GObject):138System.Boolean TutorListView::OnClickTutorEffect(System.Int32):245System.Void TutorListView::OnTutorItemClick(FairyGUI.EventContext):282System.Void TutorListView::ClickEnableTutor():313System.Int32 TutorListView::FindMissionTutorByType(System.String):354System.Void XiaodituMainView::StartupFGUI():254.try IL_0104 to IL_0155 finally handler IL_0155 to IL_0164System.Void XiaodituMainView::setPositionInfoXZ(System.Int32,System.Int32):565System.Void XiaodituMainView::onShowBigMap():828System.Void EquipTipView::UpdateItemUI():251
+System.Void EquipTipView::UpdateItemUI():276System.Void EquipTipView::UpdateEquipUI():476
+System.Void EquipTipView::UpdateEquipUI():496
+System.Void EquipTipView::UpdateEquipUI():500
+System.Void EquipTipView::UpdateEquipUI():506
+System.Void EquipTipView::UpdateEquipUI():519
+System.Void EquipTipView::UpdateEquipUI():523
+System.Void EquipTipView::UpdateEquipUI():552
+System.Void EquipTipView::UpdateEquipUI():556
+System.Void EquipTipView::UpdateEquipUI():600
+System.Void EquipTipView::UpdateEquipUI():622
+System.Void EquipTipView::UpdateEquipUI():706
+System.Void EquipTipView::UpdateEquipUI():736
+System.Void EquipTipView::UpdateEquipUI():769System.Void EquipTipView::sendOpEvent():828System.Void EquipTipView::.ctor():155System.Void TipOper::OnActionCombine():469
+System.Void TipOper::OnActionCombine():470System.Void TipOper::OnActionXiake():475System.Void TipOper::OnActionQianghua():480System.Void TipOper::OnActionMingjian():485System.Void TipOper::OnActionMingjianGuide():519System.Void TipOper::<AddOper>b__5_3():75System.Void TipOper::<AddProbCombineInputOper>b__6_0():316System.Void TipOper::<AddProbCombineOutputOper>b__7_0():332System.Void TriggerEventView::StartupFGUI():28System.Void TriggerEventView::OnViewUpdate():45
+System.Void TriggerEventView::OnViewUpdate():53System.Void TriggerEventView::OnClose():62System.Void TriggerEventView::extraCallBack():67.try IL_0001 to IL_0119 finally handler IL_0119 to IL_0122System.Void PlayerController::QSCMD_HEAD_MENUSC_Handler(System.Object):88System.Void PlayerController::DeleteTower(System.Int32):95System.Void PlayerController::QueryNearestInteractiveNpcTick():135
+System.Void PlayerController::QueryNearestInteractiveNpcTick():153
+System.Void PlayerController::QueryNearestInteractiveNpcTick():159
+System.Void PlayerController::QueryNearestInteractiveNpcTick():184
+System.Void PlayerController::QueryNearestInteractiveNpcTick():193
+System.Void PlayerController::QueryNearestInteractiveNpcTick():208
+	.try IL_00bb to IL_01ab finally handler IL_01ab to IL_01baSystem.Void PlayerController::VehicleTick():232
+System.Void PlayerController::VehicleTick():236
+System.Void PlayerController::VehicleTick():243.try IL_0015 to IL_004b finally handler IL_004b to IL_0054System.Void PlayerController::StopStory():593System.Void PlayerController::ShowLevelName(System.Int32):617System.Void PlayerController::SkipStory():631System.Void PlayerController::ShowMonsterSelection(System.Int32):659System.Void ConfigManager::Load_skills():490.try IL_007f to IL_00c1 finally handler IL_00c1 to IL_00d0System.Void ConfigManager::Load_impactList():613.try IL_000d to IL_0041 finally handler IL_0041 to IL_0050.try IL_0010 to IL_003e finally handler IL_003e to IL_004d.try IL_0010 to IL_0043 finally handler IL_0043 to IL_0052System.Void ConfigManager::MergeDictionary(System.Collections.Generic.Dictionary`2<TKey,TValue>,System.Collections.Generic.Dictionary`2<TKey,TValue>[]):1352
+	.try IL_002d to IL_0046 catch System.Exception handler IL_0046 to IL_0091
+	.try IL_0021 to IL_009d finally handler IL_009d to IL_00acSystem.Void ConfigManager::.cctor():1262System.Void GatherNumberView::StartupFGUI():131System.Void GatherNumberView::SetParameters(System.Int32):191
+System.Void GatherNumberView::SetParameters(System.Int32):194
+System.Void GatherNumberView::SetParameters(System.Int32):203System.Void GatherNumberView::SetInitialDrawer(System.String):237System.Void GatherNumberView::SetInitialText(System.String,System.String):252
+System.Void GatherNumberView::SetInitialText(System.String,System.String):253System.Void GatherNumberView::OnCloseCallback():392
+System.Void GatherNumberView::OnCloseCallback():393System.Void GatherNumberView::.ctor():91
+System.Void GatherNumberView::.ctor():95
+System.Void GatherNumberView::.ctor():96
+System.Void GatherNumberView::.ctor():97
+System.Void GatherNumberView::.ctor():98System.Void PaintCanvas::CreateBrush(System.Single):242.try IL_001d to IL_004f finally handler IL_004f to IL_005eSystem.Void BossBloodView::SetBossID(System.Int32):80System.Void BossBloodView::SetBloodColor(System.Int32):158System.Void BossBloodView::OnCloseCallback():236System.Void BossBloodView::.ctor():37.try IL_000e to IL_0032 finally handler IL_0032 to IL_0041.try IL_000e to IL_0032 finally handler IL_0032 to IL_0041System.Void Cs2LuaUiControllerManager::Cs2LuaViewManager_OnChangeHomeViewGroupActiveEvent(System.Boolean):131
+System.Void Cs2LuaUiControllerManager::Cs2LuaViewManager_OnChangeHomeViewGroupActiveEvent(System.Boolean):133System.Void Cs2LuaUiControllerManager::OnEnterLevel(TableConfig.SceneInfo):152System.Void Cs2LuaUiControllerManager::OnChangedScene(TableConfig.SceneInfo):173System.Void Cs2LuaUiControllerManager::OnLeaveLevel():178System.Void Cs2LuaUiControllerManager::Update():194
+	.try IL_0006 to IL_001b catch System.Exception handler IL_001b to IL_0065.try IL_0029 to IL_0057 finally handler IL_0057 to IL_0066.try IL_0029 to IL_0057 finally handler IL_0057 to IL_0066FairyGUI.GObject Cs2LuaViewManager::GetFGUIViewNodeByDirectPath(System.String):476FairyGUI.GObject Cs2LuaViewManager::GetFGUIViewNodeByPath(System.String):509
+FairyGUI.GObject Cs2LuaViewManager::GetFGUIViewNodeByPath(System.String):539.try IL_000d to IL_003c finally handler IL_003c to IL_004b.try IL_000d to IL_003c finally handler IL_003c to IL_004b.try IL_000d to IL_0056 finally handler IL_0056 to IL_0065Cs2LuaStartupViewBase_FGUI Cs2LuaViewManager::LoadStartupView_FGUI(System.String,System.String,System.String,ViewGroup):862
+Cs2LuaStartupViewBase_FGUI Cs2LuaViewManager::LoadStartupView_FGUI(System.String,System.String,System.String,ViewGroup):901
+Cs2LuaStartupViewBase_FGUI Cs2LuaViewManager::LoadStartupView_FGUI(System.String,System.String,System.String,ViewGroup):908
+	.try IL_01ac to IL_01df catch System.Exception handler IL_01df to IL_01e5System.Void Cs2LuaViewManager::CloseUIByComName(System.String):919.try IL_005c to IL_006c catch System.Exception handler IL_006c to IL_0071
+	.try IL_0001 to IL_0091 catch System.Exception handler IL_0091 to IL_0096System.Void Cs2LuaViewManager::.cctor():100System.Void BagView::StartupFGUI():115
+System.Void BagView::StartupFGUI():117System.Void BagView::onWannaPackageItemIndexByData(System.Int32):220System.Void BagView::UpdateTabBtn(System.Int32,System.Int32):320System.Void BagView::callBackWithModel_Bag(Cs2LuaScript.FGItemIconViewModel):520System.Void BagView::OnCloseCallback():898System.Void BagView::GotoFashion():1089System.Void BagView::.ctor():50System.Void BanghuiBuildingView::BuildingListRender(System.Int32,FairyGUI.GObject):60System.Void BanghuiChengyuanMainView::.ctor(FairyGUI.GComponent):35
+System.Void BanghuiChengyuanMainView::.ctor(FairyGUI.GComponent):36System.Void BanghuiChengyuanMainView::OnBroadCastClick(FairyGUI.EventContext):561System.Void BanghuiChengyuanMainView::MemberListRender(System.Int32,FairyGUI.GObject):708System.Void BanghuiMainView::setData():280System.Void BanghuiMainViewOfNoGang::onQuickJoin():140System.Void BanghuiMainViewOfNoGang::onCreateBanghui():163
+System.Void BanghuiMainViewOfNoGang::onCreateBanghui():165System.Void BanghuiMainViewOfNoGang::onJoinSelectedBanghui():170System.Void BanghuiMainViewOfNoGang::onRefresh():193System.Void BanghuiMainViewOfNoGang::OnClose():246System.Void BanghuiXiulianView::OnItemSelected():104System.Void BanghuiXuanzhanView::UpdateWarPointInfo():52
+System.Void BanghuiXuanzhanView::UpdateWarPointInfo():54System.Void BanghuiYabiaoView::StartupFGUI():39System.Void BaoshiMainView::initAll():154
+System.Void BaoshiMainView::initAll():155
+System.Void BaoshiMainView::initAll():157
+	.try IL_0061 to IL_00ca finally handler IL_00ca to IL_00d9System.Void BaoshiMainView::OnClickEquip(FairyGUI.EventContext):305System.Void BaoshiMainView::OnChangeSelectBaoshiPosition(FairyGUI.EventContext):336System.Void BaoshiMainView::OnTreeClickNode(FairyGUI.EventContext):390
+System.Void BaoshiMainView::OnTreeClickNode(FairyGUI.EventContext):429
+System.Void BaoshiMainView::OnTreeClickNode(FairyGUI.EventContext):434.try IL_0015 to IL_0051 finally handler IL_0051 to IL_0060System.Void BaoshiMainView::onBadgeShow():629System.Void BaoshiLeftEquipListView::init():758System.Void BaoshiXialaTitleView::setFolderData(System.Int32):1315
+	.try IL_001e to IL_0056 finally handler IL_0056 to IL_0065System.Void BattleSelectionDrawUtils::ClearSkillSelection():158System.Void BattleSelectionDrawUtils::OnAimingTouchMove(UnityEngine.Vector2):273System.Void ChapterAnimationView::StartupFGUI():27System.Void ChapterAnimationView::.ctor():13System.Void ChatMainView::OnclickSend():1095
+System.Void ChatMainView::OnclickSend():1114
+System.Void ChatMainView::OnclickSend():1116
+	.try IL_027d to IL_03db finally handler IL_03db to IL_03ea
+	.try IL_0478 to IL_04a7 finally handler IL_04a7 to IL_04b6
+	.try IL_05b2 to IL_05e0 finally handler IL_05e0 to IL_05efSystem.Void ChatMainView::SelectEmotionPanel(System.Int32):1216System.Void ChatMainView::OnClickCurrentScreenPostion():1374
+	.try IL_00f2 to IL_01e1 finally handler IL_01e1 to IL_01f0
+	.try IL_01fa to IL_0220 finally handler IL_0220 to IL_022f.try IL_0095 to IL_00c7 finally handler IL_00c7 to IL_00d6System.Void ChatMainView::OnClickPetItem(MessageDefine.stPet):1484
+System.Void ChatMainView::OnClickPetItem(MessageDefine.stPet):1486
+System.Void ChatMainView::OnClickPetItem(MessageDefine.stPet):1487
+System.Void ChatMainView::OnClickPetItem(MessageDefine.stPet):1487
+System.Void ChatMainView::OnClickPetItem(MessageDefine.stPet):1487
+	.try IL_015b to IL_023c finally handler IL_023c to IL_024b
+	.try IL_0255 to IL_027b finally handler IL_027b to IL_028aSystem.Void ChatMainView::OnClickBagItem(PlayerPackage/ClientItem):1550
+System.Void ChatMainView::OnClickBagItem(PlayerPackage/ClientItem):1556
+System.Void ChatMainView::OnClickBagItem(PlayerPackage/ClientItem):1567
+System.Void ChatMainView::OnClickBagItem(PlayerPackage/ClientItem):1567
+System.Void ChatMainView::OnClickBagItem(PlayerPackage/ClientItem):1567
+System.Void ChatMainView::OnClickBagItem(PlayerPackage/ClientItem):1572
+System.Void ChatMainView::OnClickBagItem(PlayerPackage/ClientItem):1572
+System.Void ChatMainView::OnClickBagItem(PlayerPackage/ClientItem):1572
+	.try IL_028d to IL_036e finally handler IL_036e to IL_037d
+	.try IL_0387 to IL_03ad finally handler IL_03ad to IL_03bcSystem.Void ChatMainView::.ctor():133System.Void ChooseDialogView::OnCloseCallback():182
+System.Void ChooseDialogView::OnCloseCallback():183System.Void ChooseDialogView::.ctor():21
+System.Void ChooseDialogView::.ctor():22
+System.Void ChooseDialogView::.ctor():23
+System.Void ChooseDialogView::.ctor():24System.Void BSJieguoTipView::RenderListItem(System.Int32,FairyGUI.GObject):52
+System.Void BSJieguoTipView::RenderListItem(System.Int32,FairyGUI.GObject):56
+System.Void BSJieguoTipView::RenderListItem(System.Int32,FairyGUI.GObject):67System.Void BSJieguoTipView::setData():85System.Void CommonBuyDialog::.ctor():43System.Void DaochangDifangXueliangView::SetData(MessageDefine.QSCMD_COPY_SCENE_USER_INFOSC):50
+	.try IL_005a to IL_009e finally handler IL_009e to IL_00adSystem.Void DaojuhechengMainView::onNumberTouch(FairyGUI.EventContext):289.try IL_003b to IL_0073 finally handler IL_0073 to IL_0082System.Void DengluMainView::OnQQMsdkLogin():565
+System.Void DengluMainView::OnQQMsdkLogin():570
+System.Void DengluMainView::OnQQMsdkLogin():571System.Void DengluMainView::OnQQMsdkLogin1():579System.Void DengluMainView::OnWXMsdkLogin():592System.Void DengluMainView::OnYKLogin():605System.Void DengluMainView::OnOpenServerList():1132System.Void DialogSkipView::OnSkip():23
+System.Void DialogSkipView::OnSkip():24System.Void EmitInfoView::.ctor():229System.Void ChiyaoShoudongView::OnClickItemGrp():344System.Void EquipFormView::StartupFGUI():130System.Void EquipFormView::InitComboBox():158
+System.Void EquipFormView::InitComboBox():159System.Void EquipFormView::UpdateEquipDetails(PlayerPackage/ClientItem):343
+System.Void EquipFormView::UpdateEquipDetails(PlayerPackage/ClientItem):347
+System.Void EquipFormView::UpdateEquipDetails(PlayerPackage/ClientItem):358System.Void FairyGUIModelView::AddLight():42System.Void FgGmView::setCurrentTime(System.Boolean):205.try IL_0061 to IL_00ec finally handler IL_00ec to IL_00f9
+	.try IL_004c to IL_0104 finally handler IL_0104 to IL_010f.try IL_0049 to IL_0076 finally handler IL_0076 to IL_0083
+	.try IL_0037 to IL_008e finally handler IL_008e to IL_0099System.Boolean FgGmView::analyseAllCommands(System.String):433System.Void FgGmView::flyTime():527System.Void FgGmView::analyseCommand(System.String,System.Boolean,System.Boolean):543
+System.Void FgGmView::analyseCommand(System.String,System.Boolean,System.Boolean):575System.Void FgGmView::sendCommand(System.String,System.Boolean):601System.Boolean FgGmView::analysedLocalCommand(System.String):648
+System.Boolean FgGmView::analysedLocalCommand(System.String):653
+System.Boolean FgGmView::analysedLocalCommand(System.String):658
+System.Boolean FgGmView::analysedLocalCommand(System.String):673
+System.Boolean FgGmView::analysedLocalCommand(System.String):699
+System.Boolean FgGmView::analysedLocalCommand(System.String):705
+System.Boolean FgGmView::analysedLocalCommand(System.String):710
+System.Boolean FgGmView::analysedLocalCommand(System.String):712
+System.Boolean FgGmView::analysedLocalCommand(System.String):717
+System.Boolean FgGmView::analysedLocalCommand(System.String):723
+System.Boolean FgGmView::analysedLocalCommand(System.String):726
+System.Boolean FgGmView::analysedLocalCommand(System.String):727
+System.Boolean FgGmView::analysedLocalCommand(System.String):732
+System.Boolean FgGmView::analysedLocalCommand(System.String):733
+System.Boolean FgGmView::analysedLocalCommand(System.String):753
+System.Boolean FgGmView::analysedLocalCommand(System.String):755
+System.Boolean FgGmView::analysedLocalCommand(System.String):760
+System.Boolean FgGmView::analysedLocalCommand(System.String):768
+System.Boolean FgGmView::analysedLocalCommand(System.String):770
+System.Boolean FgGmView::analysedLocalCommand(System.String):771
+System.Boolean FgGmView::analysedLocalCommand(System.String):776
+System.Boolean FgGmView::analysedLocalCommand(System.String):782
+System.Boolean FgGmView::analysedLocalCommand(System.String):784
+System.Boolean FgGmView::analysedLocalCommand(System.String):785
+System.Boolean FgGmView::analysedLocalCommand(System.String):794
+System.Boolean FgGmView::analysedLocalCommand(System.String):801
+System.Boolean FgGmView::analysedLocalCommand(System.String):808
+System.Boolean FgGmView::analysedLocalCommand(System.String):815
+System.Boolean FgGmView::analysedLocalCommand(System.String):820
+System.Boolean FgGmView::analysedLocalCommand(System.String):821
+System.Boolean FgGmView::analysedLocalCommand(System.String):826
+System.Boolean FgGmView::analysedLocalCommand(System.String):830
+System.Boolean FgGmView::analysedLocalCommand(System.String):831
+System.Boolean FgGmView::analysedLocalCommand(System.String):838
+System.Boolean FgGmView::analysedLocalCommand(System.String):839
+System.Boolean FgGmView::analysedLocalCommand(System.String):845
+System.Boolean FgGmView::analysedLocalCommand(System.String):869
+System.Boolean FgGmView::analysedLocalCommand(System.String):887
+System.Boolean FgGmView::analysedLocalCommand(System.String):918
+System.Boolean FgGmView::analysedLocalCommand(System.String):919
+System.Boolean FgGmView::analysedLocalCommand(System.String):924
+System.Boolean FgGmView::analysedLocalCommand(System.String):933
+System.Boolean FgGmView::analysedLocalCommand(System.String):938
+System.Boolean FgGmView::analysedLocalCommand(System.String):954
+System.Boolean FgGmView::analysedLocalCommand(System.String):959
+System.Boolean FgGmView::analysedLocalCommand(System.String):969
+System.Boolean FgGmView::analysedLocalCommand(System.String):974
+System.Boolean FgGmView::analysedLocalCommand(System.String):979
+System.Boolean FgGmView::analysedLocalCommand(System.String):987
+System.Boolean FgGmView::analysedLocalCommand(System.String):992
+System.Boolean FgGmView::analysedLocalCommand(System.String):998
+System.Boolean FgGmView::analysedLocalCommand(System.String):1004
+System.Boolean FgGmView::analysedLocalCommand(System.String):1005
+System.Boolean FgGmView::analysedLocalCommand(System.String):1010
+System.Boolean FgGmView::analysedLocalCommand(System.String):1017
+System.Boolean FgGmView::analysedLocalCommand(System.String):1018
+System.Boolean FgGmView::analysedLocalCommand(System.String):1023
+System.Boolean FgGmView::analysedLocalCommand(System.String):1024
+System.Boolean FgGmView::analysedLocalCommand(System.String):1034
+System.Boolean FgGmView::analysedLocalCommand(System.String):1079
+System.Boolean FgGmView::analysedLocalCommand(System.String):1101
+System.Boolean FgGmView::analysedLocalCommand(System.String):1115
+System.Boolean FgGmView::analysedLocalCommand(System.String):1121
+System.Boolean FgGmView::analysedLocalCommand(System.String):1141
+System.Boolean FgGmView::analysedLocalCommand(System.String):1143
+System.Boolean FgGmView::analysedLocalCommand(System.String):1148
+System.Boolean FgGmView::analysedLocalCommand(System.String):1150
+System.Boolean FgGmView::analysedLocalCommand(System.String):1179
+System.Boolean FgGmView::analysedLocalCommand(System.String):1186
+System.Boolean FgGmView::analysedLocalCommand(System.String):1208
+System.Boolean FgGmView::analysedLocalCommand(System.String):1214
+System.Boolean FgGmView::analysedLocalCommand(System.String):1222
+System.Boolean FgGmView::analysedLocalCommand(System.String):1225
+System.Boolean FgGmView::analysedLocalCommand(System.String):1229
+System.Boolean FgGmView::analysedLocalCommand(System.String):1235
+System.Boolean FgGmView::analysedLocalCommand(System.String):1251
+System.Boolean FgGmView::analysedLocalCommand(System.String):1255
+System.Boolean FgGmView::analysedLocalCommand(System.String):1259
+System.Boolean FgGmView::analysedLocalCommand(System.String):1269
+System.Boolean FgGmView::analysedLocalCommand(System.String):1279
+System.Boolean FgGmView::analysedLocalCommand(System.String):1311
+System.Boolean FgGmView::analysedLocalCommand(System.String):1324
+System.Boolean FgGmView::analysedLocalCommand(System.String):1329
+System.Boolean FgGmView::analysedLocalCommand(System.String):1393
+System.Boolean FgGmView::analysedLocalCommand(System.String):1435
+System.Boolean FgGmView::analysedLocalCommand(System.String):1440
+System.Boolean FgGmView::analysedLocalCommand(System.String):1453
+System.Boolean FgGmView::analysedLocalCommand(System.String):1476
+System.Boolean FgGmView::analysedLocalCommand(System.String):1492
+System.Boolean FgGmView::analysedLocalCommand(System.String):1507
+System.Boolean FgGmView::analysedLocalCommand(System.String):1514
+System.Boolean FgGmView::analysedLocalCommand(System.String):1526
+System.Boolean FgGmView::analysedLocalCommand(System.String):1532
+System.Boolean FgGmView::analysedLocalCommand(System.String):1561
+	.try IL_15a9 to IL_15f6 finally handler IL_15f6 to IL_1605.try IL_0022 to IL_0036 catch System.Object handler IL_0036 to IL_003b.try IL_002d to IL_0073 finally handler IL_0073 to IL_0082
+	.try IL_008f to IL_00d5 finally handler IL_00d5 to IL_00e4System.Void FgGmView::runCommand(System.Int32):1956.try IL_000d to IL_004d finally handler IL_004d to IL_005c.try IL_0025 to IL_006a finally handler IL_006a to IL_0079System.Void GuanqiaNameView::SetTransition():58
+System.Void GuanqiaNameView::SetTransition():59
+System.Void GuanqiaNameView::SetTransition():63
+System.Void GuanqiaNameView::SetTransition():64.try IL_0095 to IL_00c8 finally handler IL_00c8 to IL_00d7
+	.try IL_0135 to IL_0169 finally handler IL_0169 to IL_0178System.Void GuidKaiqiView::freshTick():120System.Void GuidKaiqiView::OnCloseCallback():164System.Void GuidMaskView::onClickMask():217System.Void GuidMaskView::setOpenContent(System.String,System.String,System.String):532System.Void GuidTip0002View::OnClose():79System.Void GuidWeekView::setOpenContent(System.String,System.String,System.String):66.try IL_000e to IL_002f finally handler IL_002f to IL_003eSystem.Void HaoyouLianxirenView::UpdateLianxirenList():141
+System.Void HaoyouLianxirenView::UpdateLianxirenList():165System.Void HuodongMainView::UpdateHuoDongList():443
+System.Void HuodongMainView::UpdateHuoDongList():474System.Void HuodongMainView::OnGotoBtnClick(FairyGUI.EventContext):779
+System.Void HuodongMainView::OnGotoBtnClick(FairyGUI.EventContext):782
+System.Void HuodongMainView::OnGotoBtnClick(FairyGUI.EventContext):786System.Void HuodongMainView::.ctor():32
+System.Void HuodongMainView::.ctor():33System.Void HuodongTipXiangqingView::ShowHuodongTip(System.Int32,System.String,System.Boolean):83
+System.Void HuodongTipXiangqingView::ShowHuodongTip(System.Int32,System.String,System.Boolean):84
+System.Void HuodongTipXiangqingView::ShowHuodongTip(System.Int32,System.String,System.Boolean):92
+System.Void HuodongTipXiangqingView::ShowHuodongTip(System.Int32,System.String,System.Boolean):110
+System.Void HuodongTipXiangqingView::ShowHuodongTip(System.Int32,System.String,System.Boolean):113
+	.try IL_002d to IL_039e finally handler IL_039e to IL_03adSystem.Void JiaoyiMainView::<StartupFGUI>b__13_0():46System.Void MeiriqiandaoView::.ctor():27
+System.Void MeiriqiandaoView::.ctor():28
+System.Void MeiriqiandaoView::.ctor():32System.Void MingjianGainFlyView::setData():50System.Void MingjianGainFlyView::onRightOpen():102System.Void MingjianGainFlyView::simulateOnce():125System.Void MingjianShuxingView::onLevelUpQuick():581.try IL_0164 to IL_040a finally handler IL_040a to IL_0419.try IL_0043 to IL_0116 finally handler IL_0116 to IL_0125System.Void MingjianTupuView::onCheckBkgStory():1549System.Void MingjianMainView::OnWannaMingjianMainIfTupuPage():1931System.Void MingjianMainView::OnWannaMingjianMainIfPropertyPage():1936System.Void MingjianMainView::OnCloseCallback():2102System.Void MoneyExchangeView::onNumberTouch(FairyGUI.EventContext):315System.Void MountMainView::OnClose():117.try IL_001e to IL_0048 finally handler IL_0048 to IL_0057.try IL_000e to IL_0052 finally handler IL_0052 to IL_0061.try IL_000e to IL_00a6 finally handler IL_00a6 to IL_00b5.try IL_000e to IL_005e finally handler IL_005e to IL_006d.try IL_0019 to IL_01d3 finally handler IL_01d3 to IL_01e2System.Void NewFashionView::.ctor(FairyGUI.GComponent):897System.Void MountView::OnSelectMount(System.Int32):291System.Void MountView::OnClose():474System.Void MountView::OnTouchGuideMask():495System.Void MPJJRankView::buildMenuWithData(System.Collections.Generic.List`1<FairyGUI.TreeNode>,TableConfig.MPJJRankMenu):712System.Int32 MPJJRankView::getMenuByClassify(System.Int32,System.String):760
+	.try IL_003b to IL_00b9 finally handler IL_00b9 to IL_00c8.try IL_000d to IL_0134 finally handler IL_0134 to IL_0143System.Void MPJJRankView::<StartupFGUI>b__34_0():282System.Void SwordGuideView::StartupFGUI():79
+System.Void SwordGuideView::StartupFGUI():80
+System.Void SwordGuideView::StartupFGUI():107System.Void SwordGuideView::onTanchuPlayed():174.try IL_0040 to IL_0096 finally handler IL_0096 to IL_00a5System.Void SwordGuideView::OnCloseCallback():513System.Void SwordGuideView::<ItemList>b__34_0():344System.Void TipJieguoPhshishiView::.ctor():54System.Void TransferSkillView::StartupFGUI():42System.Void TransferSkillView::setData(System.Int32):100
+System.Void TransferSkillView::setData(System.Int32):123System.Void TransferSkillView::OnClose():256System.Void TransferSkillView::<StartupFGUI>b__15_0():64System.Void XiakeAquireSkillView::DoLearn():194.try IL_0012 to IL_0040 finally handler IL_0040 to IL_004f.try IL_00c4 to IL_0160 finally handler IL_0160 to IL_016fSystem.String GoodOpinion::GetShuxingValue(TableConfig.XiakeAttrAdd,TableConfig.XiakeAttrAdd):708
+System.String GoodOpinion::GetShuxingValue(TableConfig.XiakeAttrAdd,TableConfig.XiakeAttrAdd):725
+System.String GoodOpinion::GetShuxingValue(TableConfig.XiakeAttrAdd,TableConfig.XiakeAttrAdd):739System.Void GoodOpinion::Skill():838.try IL_0012 to IL_0040 finally handler IL_0040 to IL_004f.try IL_0080 to IL_0136 finally handler IL_0136 to IL_0145.try IL_000d to IL_005f finally handler IL_005f to IL_006e.try IL_000d to IL_0047 finally handler IL_0047 to IL_0056System.Void GoodOpinion::callBackWithModel(Cs2LuaScript.FGItemIconViewModel):1090System.Void Disposition::.ctor(FairyGUI.GComponent,System.Int32):1164.try IL_001f to IL_008d finally handler IL_008d to IL_009c.try IL_003a to IL_00b4 finally handler IL_00b4 to IL_00c3System.Void NPCDialogNewView::PlayAnimations(CsLibrary.EntityInfo,System.String):123.try IL_000e to IL_0050 finally handler IL_0050 to IL_005fSystem.Void NPCDialogNewView::ShowPlayerAvatar(System.Int32,System.Int32,System.Int32,System.Single,System.Int32,System.Single,System.Single,System.Single,System.Int32,System.Single,System.Single,System.Boolean):291
+System.Void NPCDialogNewView::ShowPlayerAvatar(System.Int32,System.Int32,System.Int32,System.Single,System.Int32,System.Single,System.Single,System.Single,System.Int32,System.Single,System.Single,System.Boolean):292
+System.Void NPCDialogNewView::ShowPlayerAvatar(System.Int32,System.Int32,System.Int32,System.Single,System.Int32,System.Single,System.Single,System.Single,System.Int32,System.Single,System.Single,System.Boolean):303
+	.try IL_0001 to IL_021b catch System.Exception handler IL_021b to IL_0238System.Void NPCDialogNewView::OnCloseCallback():651
+System.Void NPCDialogNewView::OnCloseCallback():660
+	.try IL_0126 to IL_0194 finally handler IL_0194 to IL_01a3System.Void NPCDialogNewView::<StartupFGUI>b__18_0():50System.Void NpcInteractView::SetInteractType(System.Int32):115System.Void NpcInteractView::OnInteractBtnClick():219
+System.Void NpcInteractView::OnInteractBtnClick():220System.Void NpcJiaohuView::OnCloseCallback():368System.Void NpcJiaohuView::OnClickBtn(FairyGUI.EventContext):471
+System.Void NpcJiaohuView::OnClickBtn(FairyGUI.EventContext):472
+System.Void NpcJiaohuView::OnClickBtn(FairyGUI.EventContext):476
+System.Void NpcJiaohuView::OnClickBtn(FairyGUI.EventContext):500
+System.Void NpcJiaohuView::OnClickBtn(FairyGUI.EventContext):506
+System.Void NpcJiaohuView::OnClickBtn(FairyGUI.EventContext):515
+System.Void NpcJiaohuView::OnClickBtn(FairyGUI.EventContext):516System.Void NpcJiaohuView::.ctor():56System.Void NpcJiaohuView::.cctor():62
+System.Void NpcJiaohuView::.cctor():63
+System.Void NpcJiaohuView::.cctor():64
+System.Void NpcJiaohuView::.cctor():65
+System.Void NpcJiaohuView::.cctor():66
+System.Void NpcJiaohuView::.cctor():67System.Void NpcJiaohuView::<ShowView>b__34_0():206System.Void NpcShopMainView::SetMallInfo():90
+System.Void NpcShopMainView::SetMallInfo():93System.Int32 NpcShopMainView::GetMaxBuyCount(MessageDefine.stMall_Item):232System.Void NpcShopMainView::Update():273
+System.Void NpcShopMainView::Update():276.try IL_000e to IL_002c finally handler IL_002c to IL_003bSystem.Void NpcShopMainView::<StartupFGUI>b__12_0():50System.Void PaimaiXxListView::onBid():76System.Void PaimaiXxListView::onDirectBuy():82System.Void PaimaiMainView::_tickCallBack(System.Object):467System.Void PaoPaoView::Show(System.String,System.String,System.String,System.String):66System.Void PetHechengResultView::SetPetGridID(System.Int32):118.try IL_015f to IL_0378 finally handler IL_0378 to IL_0387System.Void PetHechengView::OnSelectPet(FairyGUI.EventContext):454
+	.try IL_0360 to IL_052e finally handler IL_052e to IL_053d.try IL_0040 to IL_028d finally handler IL_028d to IL_029cSystem.Boolean PetSkillView::IfShowUpdate(MessageDefine.stPetSkillItem):202
+	.try IL_000d to IL_00ed finally handler IL_00ed to IL_00fcSystem.Void PetSkillView::.ctor():17
+System.Void PetSkillView::.ctor():20System.Void PetPeiyangView::onClickTiwuBtn():173System.Void PetPropertyView::OnClickBattleButton():363System.Void PetPropertyView::OnclickAddExp():392.try IL_0064 to IL_0084 finally handler IL_0084 to IL_0093
+	.try IL_03e4 to IL_0612 finally handler IL_0612 to IL_0621System.Void PetSkillLearnView::ReloadAllSkillList(System.Int32):127
+	.try IL_00c3 to IL_0188 finally handler IL_0188 to IL_0197
+	.try IL_008b to IL_0257 finally handler IL_0257 to IL_0266System.Void PetSkillLearnView::OnClickSkillBook(System.Int32,System.Int32,System.Boolean):276
+	.try IL_0096 to IL_0385 finally handler IL_0385 to IL_0394System.Void PetSkillUpdateView::ShowSkillUpdate(System.Int32,System.Int32,System.Int32,System.Boolean):191
+	.try IL_01b6 to IL_0207 finally handler IL_0207 to IL_0216
+	.try IL_0328 to IL_0616 finally handler IL_0616 to IL_0625.try IL_0068 to IL_0132 finally handler IL_0132 to IL_0141System.Void PetTuJianView::ShowAttribute(System.Int32):164.try IL_0029 to IL_0125 finally handler IL_0125 to IL_0134System.Void PetTuJianView::.ctor():49System.Void PetView::onClickPeiyangPage():185System.Void PetView::.ctor():65System.Void PlayerPropertyTipView::UpdateData(System.Int32[][]):58System.Void PlayerPropertyTipView::.ctor():25
+System.Void PlayerPropertyTipView::.ctor():25
+System.Void PlayerPropertyTipView::.ctor():25
+System.Void PlayerPropertyTipView::.ctor():25
+System.Void PlayerPropertyTipView::.ctor():25
+System.Void PlayerPropertyTipView::.ctor():25
+System.Void PlayerPropertyTipView::.ctor():25
+System.Void PlayerPropertyTipView::.ctor():25System.Void PlayerPropertyView::_onTabButtonClicked():226System.Void PlayerPropertyView::onTitleClicked():232System.Void PlayerPropertyView::UpdateAttrInfo():358
+	.try IL_027b to IL_02f7 finally handler IL_02f7 to IL_0306System.Void PlayerPropertyView::OnCloseCallback():680System.Void PlayerPropertyView::.ctor():55
+System.Void PlayerPropertyView::.ctor():56
+System.Void PlayerPropertyView::.ctor():57
+System.Void PlayerPropertyView::.ctor():58
+System.Void PlayerPropertyView::.ctor():91
+System.Void PlayerPropertyView::.ctor():91
+System.Void PlayerPropertyView::.ctor():91
+System.Void PlayerPropertyView::.ctor():91
+System.Void PlayerPropertyView::.ctor():91
+System.Void PlayerPropertyView::.ctor():91
+System.Void PlayerPropertyView::.ctor():91
+System.Void PlayerPropertyView::.ctor():91System.Void PlayerTitleView::OnShowDetailAttr():65
+	.try IL_005c to IL_00fc finally handler IL_00fc to IL_010b
+	.try IL_0120 to IL_01cd finally handler IL_01cd to IL_01dcSystem.Void PlayerTitleView::UpdateTitleView():126
+System.Void PlayerTitleView::UpdateTitleView():131.try IL_001e to IL_0066 finally handler IL_0066 to IL_0075
+	.try IL_0088 to IL_00eb finally handler IL_00eb to IL_00fa
+	.try IL_011a to IL_0140 finally handler IL_0140 to IL_014fSystem.Void PvpResultView::.ctor():54System.Void QhJieguoTipView::RenderListItem(System.Int32,FairyGUI.GObject):49
+System.Void QhJieguoTipView::RenderListItem(System.Int32,FairyGUI.GObject):53
+System.Void QhJieguoTipView::RenderListItem(System.Int32,FairyGUI.GObject):64System.Void QhJieguoTipView::setData():82System.Void QianghuaMainView::StartupFGUI():442System.Void QianghuaMainView::playQiangHuaEffetItem(System.Int32,System.Int32):562System.Void QianghuaMainView::realClickIndex(System.Int32):634System.Void QianghuaMainView::freshUI():719System.Void QianghuaMainView::setCurrentEquip(PlayerPackage/ClientItem,System.Int32):960
+System.Void QianghuaMainView::setCurrentEquip(PlayerPackage/ClientItem,System.Int32):965TableConfig.Item[] QianghuaMainView::getItemInfosByIDs(System.Int32[]):1002System.Void QianghuaMainView::bodyQianghua():1029System.Void QianghuaMainView::qianghuaOnce():1048System.Void QianghuaMainView::onCornerClicked():1071System.String QianghuaMainView::convertToString(MessageDefine.stEquip2_AdditionalAttr):1247System.Void ProgressBarView::OnCloseCallback():66System.Void QuizMainView::ShowQuestion():191System.Void QuizMainView::ShowAnswer():211
+System.Void QuizMainView::ShowAnswer():252System.Void QuizMainView::OnViewUpdate():332.try IL_002c to IL_0189 finally handler IL_0189 to IL_0198.try IL_000e to IL_0033 finally handler IL_0033 to IL_0042.try IL_000e to IL_0033 finally handler IL_0033 to IL_0042System.Void SceneMapView::OnGotoWorldMapBtn():784System.Void SheJiaoView::RenderListItem(System.Int32,FairyGUI.GObject):302System.Void ShezhiMainView::OnClickBtnList(FairyGUI.EventContext):292
+System.Void ShezhiMainView::OnClickBtnList(FairyGUI.EventContext):295System.Void ShezhiMainView::<StartupFGUI>b__27_1():119System.Void ShezhiMainView::<StartupFGUI>b__27_2():120System.Void ShezhiMainView::<StartupFGUI>b__27_3():121System.Void ShezhiMainView::<StartupFGUI>b__27_4():122System.Void ShopMainView::UpdateView():242
+System.Void ShopMainView::UpdateView():245System.Void ShopMainView::Update():410
+System.Void ShopMainView::Update():413System.Void ShopMainView::freshCellTime(FairyGUI.GObject,System.Int64):442
+System.Void ShopMainView::freshCellTime(FairyGUI.GObject,System.Int64):445System.Int32 ShopMainView::GetMaxBuyCount(MessageDefine.stMall_Item):491System.Void ShopMainView::<StartupFGUI>b__25_4():154System.Void ShowOtherPlayerInfoView::UpdatePlayerProperty():228.try IL_03f5 to IL_047d finally handler IL_047d to IL_048c
+	.try IL_0009 to IL_05e1 finally handler IL_05e1 to IL_05f0System.Void ShowOtherPlayerInfoView::.ctor():21
+System.Void ShowOtherPlayerInfoView::.ctor():21
+System.Void ShowOtherPlayerInfoView::.ctor():21
+System.Void ShowOtherPlayerInfoView::.ctor():21
+System.Void ShowOtherPlayerInfoView::.ctor():21
+System.Void ShowOtherPlayerInfoView::.ctor():21
+System.Void ShowOtherPlayerInfoView::.ctor():21
+System.Void ShowOtherPlayerInfoView::.ctor():21
+System.Void ShowOtherPlayerInfoView::.ctor():86
+System.Void ShowOtherPlayerInfoView::.ctor():87
+System.Void ShowOtherPlayerInfoView::.ctor():88
+System.Void ShowOtherPlayerInfoView::.ctor():89
+System.Void ShowOtherPlayerInfoView::.ctor():106System.Void TeamInviteView::UpdateGangUI():117System.Void TeamApplyView::UpdateUI():67System.Void TeamMyTeamView::OnInviteBtn():231System.Void TeamMyTeamView::OnOpenSetLvView():264System.Void TeamMyTeamView::.ctor():33
+System.Void TeamMyTeamView::.ctor():34System.Void TeamNearByView::UpdateNearTeam():128System.Void TeamNearByView::UpdateNearPlayer():196System.Void TeamNearByView::SetButtonInvited(Integer64):251System.Void TeamNewView::<StartupFGUI>b__9_0():43System.Void TeamPlatformView::OnMatchBtnChanged():78System.Void TeamPlatformView::UpdateUI():181System.Void TeamPlatformView::SetTargetActivity(System.Int32):255System.Void TeamSetTargetView::OnScrollLevelList():116System.Void TeamSetTargetView::ScrollEndAction():225System.Void TeamSetTargetView::UpdateBottomLevelText():352System.Void TeamSetTargetView::OnOKBtn():380
+System.Void TeamSetTargetView::OnOKBtn():386
+System.Void TeamSetTargetView::OnOKBtn():398System.Void Tip0005View::OnWordsChanged(FairyGUI.EventContext):56System.Void Tip0005View::setData():69System.Void TipBaridaliView::OnClose():54
+	.try IL_0029 to IL_0047 finally handler IL_0047 to IL_0056.try IL_000e to IL_002c finally handler IL_002c to IL_003b.try IL_0029 to IL_005c finally handler IL_005c to IL_006bSystem.Void MasterRankView::buildMenuWithData(System.Collections.Generic.List`1<FairyGUI.TreeNode>,TableConfig.MasterRankMenu):765System.Int32 MasterRankView::getMenuByClassify(System.Int32,System.String):813
+	.try IL_003b to IL_00b9 finally handler IL_00b9 to IL_00c8.try IL_000d to IL_00fb finally handler IL_00fb to IL_010aSystem.Void MasterRankView::<StartupFGUI>b__34_0():331System.Void TipSsView::Update():61System.Void TipZhouliView::SetWeeklyScrollerView(System.Int32,FairyGUI.GList):88
+System.Void TipZhouliView::SetWeeklyScrollerView(System.Int32,FairyGUI.GList):95
+	.try IL_006c to IL_01bc finally handler IL_01bc to IL_01cbSystem.Void TipZhouliView::.ctor():19System.Void BattleView::StartupFGUI():106System.Void BattleView::InitSkillButtonDataAndUI():609System.Void BattleView::OnSwitchTargetButton():712
+System.Void BattleView::OnSwitchTargetButton():713
+System.Void BattleView::OnSwitchTargetButton():714
+System.Void BattleView::OnSwitchTargetButton():728System.Void BattleView::SetSkillBtnSkillAndIcon(System.Int32,System.Int32):905System.Void BattleView::OnChiyaoLongPress():1033
+System.Void BattleView::OnChiyaoLongPress():1034System.Void BattleView::OnChiyaoBtnClick():1075
+System.Void BattleView::OnChiyaoBtnClick():1076
+System.Void BattleView::OnChiyaoBtnClick():1081
+System.Void BattleView::OnChiyaoBtnClick():1082System.Void BattleView::onSkillButtonAction(System.Int32,BattleView/PressState,UnityEngine.Vector2):1108
+System.Void BattleView::onSkillButtonAction(System.Int32,BattleView/PressState,UnityEngine.Vector2):1112System.Void BattleView::.ctor():34System.Void HomeButtonView::StartupFGUI():250
+System.Void HomeButtonView::StartupFGUI():262System.Void HomeButtonView::OnCameraModeChange():484System.Void HomeButtonView::RefreshUI():536System.Void HomeButtonView::onWannaRightIconPosition(System.Int32):590System.Void HomeButtonView::onWannaHomeButtonImageInfo(System.Int32):595System.Void HomeButtonView::onWannaHomeButtonRect(System.Int32):631System.Void HomeButtonView::UpdateFubenCountDown():843
+System.Void HomeButtonView::UpdateFubenCountDown():844.try IL_007a to IL_0119 finally handler IL_0119 to IL_0128System.Void HomeButtonView::ShowPaoPaoButton(System.Int32):923System.Void HomeButtonView::OnClickCamera():997System.Void HomeButtonView::OnClickLeftHideBtn():1019
+System.Void HomeButtonView::OnClickLeftHideBtn():1023System.Void HomeButtonView::SetMountButtonSelected(System.Boolean,System.Boolean):1096.try IL_0218 to IL_026c finally handler IL_026c to IL_027b.try IL_0013 to IL_0152 finally handler IL_0152 to IL_0161.try IL_0013 to IL_005a finally handler IL_005a to IL_0069System.Void HomeButtonView::.ctor():131System.Void HomeButtonView::<StartupFGUI>b__61_2():288
+System.Void HomeButtonView::<StartupFGUI>b__61_2():303System.Void MissionDialogView::OnCloseCallback():111System.Void TouxianTishengTipView::GoToActivity():134.try IL_0070 to IL_0362 finally handler IL_0362 to IL_0371
+	.try IL_054d to IL_08bd finally handler IL_08bd to IL_08ccSystem.Void TouxianTishengTipView::.ctor():49
+System.Void TouxianTishengTipView::.ctor():50
+System.Void TouxianTishengTipView::.ctor():51.try IL_0013 to IL_0089 finally handler IL_0089 to IL_0098
+	.try IL_00ad to IL_0240 finally handler IL_0240 to IL_024f.try IL_000e to IL_0034 finally handler IL_0034 to IL_0043System.Void UIDisposeConfig::.cctor():7
+System.Void UIDisposeConfig::.cctor():10
+System.Void UIDisposeConfig::.cctor():19
+System.Void UIDisposeConfig::.cctor():21.try IL_000e to IL_002d finally handler IL_002d to IL_003c.try IL_000e to IL_0037 finally handler IL_0037 to IL_0046.try IL_000e to IL_0038 finally handler IL_0038 to IL_0047.try IL_000e to IL_002d finally handler IL_002d to IL_003c.try IL_000e to IL_0049 finally handler IL_0049 to IL_0058.try IL_001a to IL_0062 finally handler IL_0062 to IL_0071System.Void RenderImage::SetBackground(FairyGUI.GObject,FairyGUI.GObject):119System.Void XiakeDialogView::RefreshDialogList():138
+System.Void XiakeDialogView::RefreshDialogList():143System.Void XiakeDzMain03View::OnActionItemClicked(FairyGUI.EventContext):210.try IL_0030 to IL_0125 finally handler IL_0125 to IL_0134System.Void XiakeDzMain03View::onShowSinglePoseList():273System.Void XiakeDzMain03View::onShowMultiPoseList():323System.Void XiakeDzMain03View::onReverseFinished():341.try IL_0014 to IL_003d finally handler IL_003d to IL_004cSystem.Void XiakeGiftMainView::OnShowGiftTip(Cs2LuaScript.FGItemIconViewModel):278System.Void XiakeMain01View::showActionMode(System.Boolean):172System.Void XiakeMain01View::onHeadTouched():183System.Void XiakeMain01View::setData():233System.Void XiakeMain01View::onXinJian():404System.Void XiakeMain01View::onPose():427System.Void XiakeMain01View::onEffect():433.try IL_002a to IL_008a finally handler IL_008a to IL_0099System.Void XiakeMain01View::onLeave():556System.Void XiakeMain01View::onGive():566System.Void XiakeMainView::initComboBoxData():309
+System.Void XiakeMainView::initComboBoxData():310
+	.try IL_003b to IL_0091 finally handler IL_0091 to IL_00a0
+	.try IL_00a9 to IL_00ec finally handler IL_00ec to IL_00fbSystem.Void XiakeMainView::onTotalProperty():368System.Void XiakeMainView::onRentong():372System.Void XiakeMainView::collectXiaKe():477System.Void XiakeItemView::onSelectMe():719System.Void XiakeItemView::onClickPhoto():764System.Void XiakeItemView::onGive():811.try IL_001a to IL_0142 finally handler IL_0142 to IL_0151
+	.try IL_0165 to IL_01a8 finally handler IL_01a8 to IL_01b7.try IL_0014 to IL_0056 finally handler IL_0056 to IL_0065.try IL_0019 to IL_011d finally handler IL_011d to IL_012c.try IL_0029 to IL_01ac finally handler IL_01ac to IL_01bb
+	.try IL_000e to IL_01ca finally handler IL_01ca to IL_01d9.try IL_0046 to IL_0084 finally handler IL_0084 to IL_0093.try IL_00d9 to IL_01ef finally handler IL_01ef to IL_01fe.try IL_0019 to IL_011d finally handler IL_011d to IL_012c.try IL_0029 to IL_01ac finally handler IL_01ac to IL_01bb
+	.try IL_000e to IL_01ca finally handler IL_01ca to IL_01d9.try IL_0046 to IL_0084 finally handler IL_0084 to IL_0093System.Void YishiGongshiMainView::UpdateLeftTime(System.Object):237
+System.Void YishiGongshiMainView::UpdateLeftTime(System.Object):240System.Void YishiGoodsOperView::SetData(MessageDefine.MarketItem):70System.Void YishiGoodsOperView::UpdateLeftTime(System.Object):99.try IL_00d9 to IL_01ef finally handler IL_01ef to IL_01feSystem.Void YishiTanweiMainView::.ctor(FairyGUI.GComponent):26System.Void YishiTanweiMainView::UpdateSellList(MessageDefine.QSCMD_MARKET_USERSC):91.try IL_0018 to IL_004e finally handler IL_004e to IL_005dSystem.Void YuyinXuangaoyueView::onQuitSelect():91System.Void YuyinXuanweizhuangView::onQuitSelect():92System.Void YuyinyindaoMainView::onChooseWeizhuang():91System.Void YuyinyindaoMainView::onChooseGaoyue():101System.Void ZaixianjlView::InitFlowers():171System.Void ZaixianjlView::.ctor():35
+System.Void ZaixianjlView::.ctor():36
+System.Void ZaixianjlView::.ctor():37System.Void ZbmwMainView::initComboBoxData():223
+System.Void ZbmwMainView::initComboBoxData():224
+	.try IL_0021 to IL_006b finally handler IL_006b to IL_007aSystem.Void ZbrlRootView::StartupFGUI(FairyGUI.GObject):239
+System.Void ZbrlRootView::StartupFGUI(FairyGUI.GObject):248
+System.Void ZbrlRootView::StartupFGUI(FairyGUI.GObject):249System.Void ZbrlRootView::initAll():306
+System.Void ZbrlRootView::initAll():307
+System.Void ZbrlRootView::initAll():308
+System.Void ZbrlRootView::initAll():309System.Void ZbrlRootView::OnPackageListRender(Cs2LuaScript.FGItemIconView):418System.Void ZbrlRootView::onSetting():841System.Void ZbrlRootView::onMaterialSelectedAction():900System.Void ZbrlRootView::onRonglian():962
+System.Void ZbrlRootView::onRonglian():973System.Void ZbrlRootView::onQuickSelect():1063System.Void ZbrlRootView::onMaterialWillCome():1093System.Void ZbrlMainView::wannaBaoshiUICenterRedAlert():1252System.Void ZbrlMainView::wannaEquipMainUIEquipIndex(System.Int32):1265System.Void ZbrlMainView::wannaBaoshiUICurrentSelectEquipIndex():1299System.Void ZbrlMainView::wannaBaoshiUICurrentSelectBaoshiPosIndex():1309System.Void ZbrlMainView::OnCloseCallback():1621System.Void ZbrlShuxingjhListView::setData(System.Int32):1763System.Void XiakeTujianMainView::OnClickTujianIndex(FairyGUI.EventContext):97
+System.Void XiakeTujianMainView::OnClickTujianIndex(FairyGUI.EventContext):125System.Void XiakeTujianMainView::onTotalProperties():198.try IL_0017 to IL_0036 finally handler IL_0036 to IL_0045.try IL_0017 to IL_0036 finally handler IL_0036 to IL_0045System.String ClientMissionItem::get_tutorInfo():217
+System.String ClientMissionItem::get_tutorInfo():223System.String ClientMissionItem::get_ProgressText():243
+System.String ClientMissionItem::get_ProgressText():255
+System.String ClientMissionItem::get_ProgressText():257
+System.String ClientMissionItem::get_ProgressText():261
+System.String ClientMissionItem::get_ProgressText():266
+	.try IL_0001 to IL_038a catch System.Exception handler IL_038a to IL_0396System.String ClientMissionItem::TargetTipText(System.UInt32,System.UInt32):288.try IL_000e to IL_0036 finally handler IL_0036 to IL_0045FairyGUI.GObject FairyGUIUtilits::FindChild(FairyGUI.GObject,System.String):12System.Void JianWenMainView::OnTreeNodeRender(FairyGUI.TreeNode):63.try IL_007d to IL_0111 finally handler IL_0111 to IL_0120System.Void HuanYinMainView::ShowTouXian():247
+System.Void HuanYinMainView::ShowTouXian():257
+System.Void HuanYinMainView::ShowTouXian():267
+System.Void HuanYinMainView::ShowTouXian():278
+System.Void HuanYinMainView::ShowTouXian():314
+System.Void HuanYinMainView::ShowTouXian():328
+System.Void HuanYinMainView::ShowTouXian():338
+System.Void HuanYinMainView::ShowTouXian():348
+System.Void HuanYinMainView::ShowTouXian():358
+	.try IL_00dd to IL_047d finally handler IL_047d to IL_048c
+	.try IL_0539 to IL_0910 finally handler IL_0910 to IL_091fSystem.Void HuanYinLevelView::UpdateGUI():648System.Void HuanYinLevelView::<.ctor>b__8_0():591System.Void HuanAutoPassItemView::UpdateGUI():97System.Void HuanYinWinView::UpdateGUI():41System.Void HuanYinLoseView::UpdateGUI():56System.Void HuanYinFirstView::UpdateGUI():42System.Void HuanYinItemViewModel::set_data(TableConfig.YingXiongShiLian):440
+System.Void HuanYinItemViewModel::set_data(TableConfig.YingXiongShiLian):444
+System.Void HuanYinItemViewModel::set_data(TableConfig.YingXiongShiLian):454
